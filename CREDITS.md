@@ -124,6 +124,22 @@ uso **no comercial** y con atribución a sus artistas.
 | YoukaiMinori | <@91001329228464128> | 252, 253 |
 | ◥θ┴θ◤ | DC:<@215638650434617345> | 157, 445, 501, 504, 505, 566, 577, 595, 627, 650, 651, 658, 661, 676, 684, 707, 724, 726, 728, 729, 730, 761, 763, 790, 823, 872, 907, 991 |
 
+## Formas alternativas
+
+Formas de SpriteCollab que usan las habilidades que cambian de forma
+(Disfraz, Predicción, Cara de Hielo, Escudo Limitado, Cambio Heroico), en
+`assets/pokemon/{nº}-{forma}/`. Misma licencia (CC BY-NC 4.0).
+
+| Artista | Contacto | Formas |
+|---|---|---|
+| baronessfaron |  | 778-busted, 875-noice |
+| CHUNSOFT | https://www.spike-chunsoft.com/ | 351-rainy, 351-snowy, 351-sunny |
+| Emboarger |  | 774-blue, 774-green, 774-indigo, 774-orange, 774-red, 774-violet, 774-yellow |
+| Emmuffin | https://twitter.com/Ernmuffin | 875-noice |
+| G〜 | https://bsky.app/profile/justtr4sh.pmd.social | 964-hero |
+| Scizivire | <@207188665959448576> | 351-rainy, 351-snowy, 351-sunny |
+| ShyStarryRain |  | 351-rainy, 351-snowy, 351-sunny, 778-busted |
+
 ## Datos
 
 Stats base y nombres en español: [PokeAPI](https://pokeapi.co/),
