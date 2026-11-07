@@ -147,6 +147,46 @@ Misma licencia (CC BY-NC 4.0).
 | ShyStarryRain |  | 351-rainy, 351-snowy, 351-sunny, 778-busted |
 | Top_Kec | @topkec.bsky.social | 773-bug, 773-dark, 773-dragon, 773-electric, 773-fairy, 773-fighting, 773-fire, 773-flying, 773-ghost, 773-grass, 773-ground, 773-ice, 773-poison, 773-psychic, 773-rock, 773-steel, 773-water |
 
+## Formas regionales
+
+Formas regionales de SpriteCollab (Alola, Galar, Hisui, Paldea), en `assets/pokemon/{id de PokeAPI}/`
+(p. ej. 10103 = Vulpix de Alola). Misma licencia (CC BY-NC 4.0).
+
+| Artista | Contacto | Formas |
+|---|---|---|
+| Audino | https://github.com/audinowho | ninetales-alola, vulpix-alola |
+| Axcel |  | voltorb-hisui |
+| baronessfaron |  | arcanine-hisui, articuno-galar, avalugg-hisui, braviary-hisui, darmanitan-galar-standard, decidueye-hisui, exeggutor-alola, growlithe-hisui, lilligant-hisui, linoone-galar, mr-mime-galar, ninetales-alola, ponyta-galar, raichu-alola, rapidash-galar, samurott-hisui, sandshrew-alola, sandslash-alola, slowbro-galar, vulpix-alola, weezing-galar, zoroark-hisui |
+| Caitemis | https://caitemis-art.tumblr.com/ | meowth-galar, typhlosion-hisui, zapdos-galar |
+| Deeshura | https://bsky.app/profile/deeshura.bsky.social | samurott-hisui, typhlosion-hisui, zoroark-hisui |
+| electronvolt | electronvolt@gamepad.club | electrode-hisui |
+| Emboarger |  | diglett-alola, grimer-alola, qwilfish-hisui, voltorb-hisui |
+| Emmuffin | https://twitter.com/Ernmuffin | arcanine-hisui, articuno-galar, avalugg-hisui, braviary-hisui, darmanitan-galar-standard, decidueye-hisui, goodra-hisui, marowak-alola, mr-mime-galar, sliggoo-hisui, slowbro-galar, slowking-galar, slowpoke-galar, tauros-paldea-aqua-breed, tauros-paldea-blaze-breed, tauros-paldea-combat-breed, weezing-galar, zigzagoon-galar |
+| FissionCube | https://twewyfinalmix.tumblr.com | slowpoke-galar |
+| Fresco | marcfreixer@gmail.com | qwilfish-hisui |
+| Gelius | <@276428982683959296> | electrode-hisui |
+| GustavoMusinTG | https://x.com/GustavoMusinTG | lilligant-hisui |
+| G〜 | https://bsky.app/profile/justtr4sh.pmd.social | meowth-galar |
+| Ichor |  | zorua-hisui |
+| JFain |  | corsola-galar, farfetchd-galar, qwilfish-hisui, tauros-paldea-aqua-breed, zigzagoon-galar |
+| Jhony-Rex | https://www.deviantart.com/jhony-rex | moltres-galar, ponyta-galar, rapidash-galar, weezing-galar, zapdos-galar |
+| Limomon | https://twitter.com/TheLimomon | tauros-paldea-blaze-breed, tauros-paldea-combat-breed |
+| lokatts | https://twitter.com/lokatts | rapidash-galar |
+| Morei | https://bsky.app/profile/murpia57.bsky.social | corsola-galar, diglett-alola, farfetchd-galar, geodude-alola, golem-alola, graveler-alola, grimer-alola, moltres-galar, muk-alola, zapdos-galar, zorua-hisui |
+| NeroIntruder | https://twitter.com/NeroIntruder | dugtrio-alola, geodude-alola, golem-alola, graveler-alola, muk-alola, ninetales-alola, raticate-alola, rattata-alola, vulpix-alola |
+| pi3.14 | https://twitter.com/Pi_y_ranitas | tauros-paldea-combat-breed |
+| Pink_no_tori | https://twitter.com/pink_avian_poke | persian-alola, slowbro-galar |
+| Pokejavi. | <@823932975916777512> | yamask-galar |
+| rhys | https://bsky.app/profile/geckqua.bsky.social | electrode-hisui, sandslash-alola |
+| ShyStarryRain |  | dugtrio-alola, exeggutor-alola, growlithe-hisui, meowth-alola, persian-alola, raichu-alola, raticate-alola, rattata-alola, sneasel-hisui |
+| Smingle | https://twitter.com/TheSmingle | meowth-galar |
+| Soulja | https://twitter.com/OlSoulja | braviary-hisui, darmanitan-galar-standard, lilligant-hisui, slowking-galar |
+| teddg | <@255885525204992000> | electrode-hisui |
+| Top_Kec | @topkec.bsky.social | sandshrew-alola |
+| Uni | https://github.com/ArianaCastro01 | darumaka-galar, wooper-paldea, zigzagoon-galar |
+| XModxGodX |  | zorua-hisui |
+| ◥θ┴θ◤ | DC:<@215638650434617345> | ponyta-galar |
+
 ## Datos
 
 Stats base y nombres en español: [PokeAPI](https://pokeapi.co/),
