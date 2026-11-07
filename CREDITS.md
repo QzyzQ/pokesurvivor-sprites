@@ -126,19 +126,26 @@ uso **no comercial** y con atribución a sus artistas.
 
 ## Formas alternativas
 
-Formas de SpriteCollab que usan las habilidades que cambian de forma
-(Disfraz, Predicción, Cara de Hielo, Escudo Limitado, Cambio Heroico), en
-`assets/pokemon/{nº}-{forma}/`. Misma licencia (CC BY-NC 4.0).
+Formas de SpriteCollab que usan las habilidades que cambian de forma (Disfraz,
+Predicción, Cara de Hielo, Escudo Limitado, Cambio Heroico, Multitipo, Sistema RKS,
+Espada Indómita, Escudo Recio, Teracambio), en `assets/pokemon/{nº}-{forma}/`.
+Misma licencia (CC BY-NC 4.0).
 
 | Artista | Contacto | Formas |
 |---|---|---|
-| baronessfaron |  | 778-busted, 875-noice |
+| baronessfaron |  | 493-bug, 493-dark, 493-dragon, 493-electric, 493-fairy, 493-fighting, 493-fire, 493-flying, 493-ghost, 493-grass, 493-ground, 493-ice, 493-poison, 493-psychic, 493-rock, 493-steel, 493-water, 778-busted, 875-noice, 888-crowned |
 | CHUNSOFT | https://www.spike-chunsoft.com/ | 351-rainy, 351-snowy, 351-sunny |
-| Emboarger |  | 774-blue, 774-green, 774-indigo, 774-orange, 774-red, 774-violet, 774-yellow |
-| Emmuffin | https://twitter.com/Ernmuffin | 875-noice |
-| G〜 | https://bsky.app/profile/justtr4sh.pmd.social | 964-hero |
+| DeltaL | averyderp.sm2@gmail.com | 889-crowned |
+| Emboarger |  | 493-bug, 493-dark, 493-dragon, 493-electric, 493-fairy, 493-fighting, 493-fire, 493-flying, 493-ghost, 493-grass, 493-ground, 493-ice, 493-poison, 493-psychic, 493-rock, 493-steel, 493-water, 773-fighting, 774-blue, 774-green, 774-indigo, 774-orange, 774-red, 774-violet, 774-yellow |
+| Emmuffin | https://twitter.com/Ernmuffin | 493-bug, 875-noice, 888-crowned |
+| FerMrack | https://x.com/FerMrack_FM | 889-crowned |
+| G〜 | https://bsky.app/profile/justtr4sh.pmd.social | 1024-terastal, 964-hero |
+| JFain |  | 1024-terastal |
+| Jhony-Rex | https://www.deviantart.com/jhony-rex | 888-crowned |
+| Morei | https://bsky.app/profile/murpia57.bsky.social | 493-bug, 493-dark, 493-dragon, 493-electric, 493-fairy, 493-fighting, 493-fire, 493-flying, 493-ghost, 493-grass, 493-ground, 493-ice, 493-poison, 493-psychic, 493-rock, 493-steel, 493-water |
 | Scizivire | <@207188665959448576> | 351-rainy, 351-snowy, 351-sunny |
 | ShyStarryRain |  | 351-rainy, 351-snowy, 351-sunny, 778-busted |
+| Top_Kec | @topkec.bsky.social | 773-bug, 773-dark, 773-dragon, 773-electric, 773-fairy, 773-fighting, 773-fire, 773-flying, 773-ghost, 773-grass, 773-ground, 773-ice, 773-poison, 773-psychic, 773-rock, 773-steel, 773-water |
 
 ## Datos
 
