@@ -133,11 +133,11 @@ Misma licencia (CC BY-NC 4.0).
 
 | Artista | Contacto | Formas |
 |---|---|---|
-| baronessfaron |  | 493-bug, 493-dark, 493-dragon, 493-electric, 493-fairy, 493-fighting, 493-fire, 493-flying, 493-ghost, 493-grass, 493-ground, 493-ice, 493-poison, 493-psychic, 493-rock, 493-steel, 493-water, 778-busted, 875-noice, 888-crowned |
+| baronessfaron |  | 493-bug, 493-dark, 493-dragon, 493-electric, 493-fairy, 493-fighting, 493-fire, 493-flying, 493-ghost, 493-grass, 493-ground, 493-ice, 493-poison, 493-psychic, 493-rock, 493-steel, 493-water, 778-busted, 875-noice, 888-crowned, 555-zen |
 | CHUNSOFT | https://www.spike-chunsoft.com/ | 351-rainy, 351-snowy, 351-sunny |
 | DeltaL | averyderp.sm2@gmail.com | 889-crowned |
 | Emboarger |  | 493-bug, 493-dark, 493-dragon, 493-electric, 493-fairy, 493-fighting, 493-fire, 493-flying, 493-ghost, 493-grass, 493-ground, 493-ice, 493-poison, 493-psychic, 493-rock, 493-steel, 493-water, 773-fighting, 774-blue, 774-green, 774-indigo, 774-orange, 774-red, 774-violet, 774-yellow |
-| Emmuffin | https://twitter.com/Ernmuffin | 493-bug, 875-noice, 888-crowned |
+| Emmuffin | https://twitter.com/Ernmuffin | 493-bug, 875-noice, 888-crowned, 555-zen |
 | FerMrack | https://x.com/FerMrack_FM | 889-crowned |
 | G〜 | https://bsky.app/profile/justtr4sh.pmd.social | 1024-terastal, 964-hero |
 | JFain |  | 1024-terastal |
